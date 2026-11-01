@@ -19,7 +19,6 @@ venv/
 docs/venv/
 
 # Not part of the Phase 2 deliverable
-archive_non_phase1/
 docs/*.pdf
 docs/*.mp4
 .vscode/
